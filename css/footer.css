@@ -1,0 +1,81 @@
+main{
+    height:50px;
+}
+.k_footer{
+    width: 100%;
+    border-top: 1px solid #f4f4f4;
+    margin:0px;
+}
+.k_footertop{
+    height:257px;
+}
+.k_bg1{
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #cccccc;
+}
+.k_claim_img{
+  margin-left:280px;
+  margin-bottom: 145px !important;
+}
+.k_inlineblock{
+    display:inline-block !important;
+}  
+.k_margin{
+    margin:50px 20px;
+} 
+.k_claim_fs{
+    font-size:1.6em !important;
+}
+.k_text{
+    color:#555 !important;
+    font-size:0.8em;
+}
+.k_claim_no{
+    font-weight: 700;
+    color:#067ab4;
+}
+.k_footerbottom{
+    min-height:409px;
+}
+.k_a{
+    color:#555 !important;
+    font-size: 0.9em;
+    text-decoration: none;
+    margin-top:35px;
+    font-family: helvetica,arial,sans-serif;
+}
+.k_mleft{
+    margin-right: 25px;
+}
+.k_bg2{
+    background-color: #f7f7f7;
+}
+.k_box1{
+    width:20.5%;
+    letter-spacing: .2px;
+}
+.k_box3{
+    min-width:320px;
+}
+.k_box4{
+    width:14%;
+    margin-left: 20px;
+}
+.k_contact{
+    color:#292e32;
+}
+.k_fb{
+    color:#187af0;
+}
+.k_tw{
+    color:#189eec;
+    width:50px;
+}
+.k_privacy{
+    font-size:1em;
+    text-decoration: none !important;
+    padding:5px 5px;
+}   
+.tbdr{
+    border:1px dashed #000;
+}

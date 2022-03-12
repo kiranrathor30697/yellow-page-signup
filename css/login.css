@@ -1,0 +1,22 @@
+.k_inlineblock{
+    display: inline-block;
+}
+.K_text_decoration{
+    text-decoration:none;
+}
+.k_border{
+    border: 1px solid #eeeeee;
+}
+.k_box{
+    border: 1px solid #cccccc;
+}
+.k_logo{
+    text-decoration: none;
+    color: #555555;
+    font-size: 0.8em;
+    }
+    
+    .k_p_fs{
+        font-size:13px;
+        color:#999999;
+    }
